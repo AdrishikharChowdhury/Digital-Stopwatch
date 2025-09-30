@@ -10,13 +10,16 @@ A sleek and modern digital stopwatch application built with React. This project 
 - ⚡ **Real-time Display**: Shows the elapsed time with millisecond accuracy.
 - 🎨 **Modern UI**: Aesthetically pleasing design with a focus on user experience.
 - 🗑️ **Clear Laps**: Ability to clear all recorded laps.
+- 🗑️ **Delete Individual Laps**: Ability to delete specific laps.
 
 ## 🚀 Technologies Used
 
-- **React 18** - Modern React with hooks for a declarative and efficient UI.
+- **React 19** - The latest version of React for building modern user interfaces.
 - **Vite** - A next-generation frontend tooling for a fast development experience.
+- **Tailwind CSS** - A utility-first CSS framework for rapid UI development.
+- **Font Awesome** - For scalable vector icons.
+- **Framer Motion** - A production-ready motion library for React.
 - **JavaScript (ES6+)** - The programming language of the web.
-- **CSS3** - For styling and creating a beautiful user interface.
 
 ## 📦 Installation
 
@@ -86,7 +89,7 @@ digital-stopwatch/
 ## 🛠️ Built With
 
 - **React Hooks**: `useState`, `useEffect`, and `useRef` for state management and side effects.
-- **Component-Based Architecture**: Breaking down the UI into reusable components.
+- **Tailwind CSS**: For styling and creating a beautiful user interface.
 - **Vite**: For a fast and modern development workflow.
 
 ## 🤝 Contributing
